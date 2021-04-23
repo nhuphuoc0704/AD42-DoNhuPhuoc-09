@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AD42_Dialog_Menu_Demo</string>
+    <string name="fromfile">From file</string>
+    <string name="fromdefaults">From defaults</string>
+    <string name="title">Titles</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+
+    <string-array name="weeks">
+        <item name="monday">Monday</item>
+        <item name="tuesday">Tuesday</item>
+        <item name="wednesday">Wednesday</item>
+        <item name="thursday">Thursday</item>
+        <item name="friday">Friday</item>
+        <item name="saturday">Saturday</item>
+        <item name="sunday">Sunday</item>
+    </string-array>
+    <string-array name="tags">
+        <item name="lol">LOL</item>
+        <item name="dotkich">Đột kích</item>
+        <item name="volam">Võ Lâm</item>
+        <item name="csgo">CSGO</item>
+        <item name="amongus">Among Us</item>
+        <item name="khac">Game khác</item>
+    </string-array>
+    <string-array name="tunes">
+        <item name="edm">EDM</item>
+        <item name="vina">Vinahouses</item>
+        <item name="remix">Remix</item>
+        <item name="cover">Cover</item>
+        <item name="pop">Pop</item>
+    </string-array>
+</resources>

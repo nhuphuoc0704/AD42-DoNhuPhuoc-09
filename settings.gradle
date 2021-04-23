@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "AD42_Dialog_Menu_Demo"
